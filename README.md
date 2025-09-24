@@ -13,7 +13,7 @@ A Python project that generates colorful flower patterns using the `turtle` grap
 
 ## Preview
 
-![Flower Pattern Example](examples/myflower.eps)
+![Flower Pattern Example](examples/myflower.jpg)
 
 ---
 
